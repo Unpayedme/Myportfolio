@@ -61,7 +61,7 @@ export const SCHOOL_PROJECTS = [
     title: "CPU Scheduling",
     desc: "An interactive visualization tool for Operating System scheduling algorithms. Users can input custom process data to generate real-time Gantt charts and compare the efficiency of algorithms like FCFS and Round Robin based on Turnaround and Waiting times.",
     tags: ["React", "Javascript", "Tailwind"],
-    link: "https://appsdev-midterm-nine.vercel.app/",
-    githubLink: "https://github.com/Unpayedme/APPSDEV-MIDTERM"
+    link: "https://cpu-scheduling-fcfs-kappa.vercel.app/",
+    githubLink: "https://github.com/Unpayedme/cpu-scheduling-fcfs"
   },
 ];
