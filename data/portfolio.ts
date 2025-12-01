@@ -30,6 +30,7 @@ export const PROJECTS = [
     tags: ["Python", "React", "FastAPI"],
     link: "#"
   },
+  
   // ... add the rest of your projects here
 ];
 

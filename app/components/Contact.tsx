@@ -18,7 +18,7 @@ const Contact = () => {
 
         <RevealOnScroll delay={100}>
            <a 
-             href="mailto:hello@example.com" 
+             href="mailto:jv.sefuesca@gmail.com" 
              className="inline-flex items-center gap-2 px-8 py-4 border-2 border-red-600 text-red-500 text-lg font-bold rounded hover:bg-red-600 hover:text-white transition-all duration-300"
            >
              <Mail size={22} />
@@ -29,12 +29,12 @@ const Contact = () => {
 
       <div className="absolute bottom-10 w-full px-6 flex justify-between items-center text-gray-500 text-sm">
          <div className="hidden md:flex flex-col gap-6 fixed left-10 bottom-0 z-10 after:content-[''] after:w-px after:h-24 after:bg-gray-500 after:mx-auto">
-            <a href="#" className="hover:text-red-500 hover:-translate-y-1 transition-all"><Github size={20} /></a>
+            <a href="https://github.com/unpayedme" className="hover:text-red-500 hover:-translate-y-1 transition-all" target='_blank'><Github size={20} /></a>
             <a href="#" className="hover:text-red-500 hover:-translate-y-1 transition-all"><Linkedin size={20} /></a>
          </div>
          <div className="hidden md:flex flex-col gap-6 fixed right-10 bottom-0 z-10 after:content-[''] after:w-px after:h-24 after:bg-gray-500 after:mx-auto">
-            <a href="mailto:email@example.com" className="hover:text-red-500 hover:-translate-y-1 transition-all vertical-writing-rl font-mono tracking-widest text-xs py-4">
-              email@example.com
+            <a href="mailto:jv.sefuesca@gmail.com" className="hover:text-red-500 hover:-translate-y-1 transition-all vertical-writing-rl font-mono tracking-widest text-xs py-4" >
+              jv.sefuesca@gmail.com
             </a>
          </div>
       </div>
