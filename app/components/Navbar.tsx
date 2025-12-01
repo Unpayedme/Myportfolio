@@ -18,7 +18,7 @@ export default function Navbar() {
     <nav className={`fixed w-full z-50 transition-all duration-300 ${scrolled ? 'bg-black/80 backdrop-blur-md border-b border-red-900/30 py-4' : 'bg-transparent py-6'}`}>
       <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
         <a href="#" className="text-2xl font-bold tracking-tighter hover:text-red-500 transition-colors">
-          DEV<span className="text-red-500">.</span>FOLIO
+          SEFUESCA<span className="text-red-500">.</span>DEV
         </a>
 
         {/* Desktop Nav */}

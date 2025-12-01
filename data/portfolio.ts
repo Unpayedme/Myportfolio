@@ -13,21 +13,21 @@ export const SKILLS = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Dashboard",
-    desc: "A full-featured analytics dashboard with dark mode and real-time data visualization.",
+    title: "Empty",
+    desc: "",
     tags: ["React", "Tailwind", "Node.js"],
     link: "#"
   },
-  {
-    title: "Neon Chat App",
-    desc: "Real-time messaging application with end-to-end encryption and file sharing capabilities.",
-    tags: ["Socket.io", "Express", "React"],
+   {
+    title: "Empty",
+    desc: "",
+    tags: ["React", "Tailwind", "Node.js"],
     link: "#"
   },
-  {
-    title: "AI Image Generator",
-    desc: "Interface for generating art using stable diffusion models with custom fine-tuning controls.",
-    tags: ["Python", "React", "FastAPI"],
+   {
+    title: "Empty",
+    desc: "",
+    tags: ["React", "Tailwind", "Node.js"],
     link: "#"
   },
   
@@ -36,15 +36,32 @@ export const PROJECTS = [
 
 export const SCHOOL_PROJECTS = [
   {
-    title: "Student Management System",
-    desc: "A Java-based desktop application for managing student records.",
-    tags: ["Java", "JavaFX", "MySQL"],
-    link: "#"
+    title: "Random Riddles",
+    desc: "A digital gymnasium for the mind—instantly generating random riddles to test your wit and problem-solving skills.",
+    tags: ["Html", "CSS", "Javascript"],
+    link: "https://randomriddles.netlify.app/",
+    githubLink: "https://github.com/Unpayedme/randomriddles"
+    
   },
   {
-    title: "University Library Portal",
-    desc: "Digital library system allowing students to reserve books.",
-    tags: ["PHP", "Laravel", "Bootstrap"],
-    link: "#"
-  }
+    title: "GYM SYSTEM Analytics",
+    desc: "A comprehensive dashboard visualizing key business metrics. It tracks real-time revenue, member attendance trends, and growth rates, helping gym owners make data-driven decisions at a glance.",
+    tags: ["React/Nextjs", "PostgreSql/neon", "TypeScript", "Tailwind"],
+    link: "https://it-tract-final.vercel.app/",
+    githubLink: "https://github.com/Unpayedme/it-tract-final"
+  },
+  {
+    title: "E-Commerce Shop",
+    desc: "A fully responsive online store featuring a seamless shopping experience. Users can browse products, manage their cart, and securely checkout, while admins have a dedicated dashboard for inventory and order management.",
+    tags: ["React", "Javascript", "Tailwind"],
+    link: "https://appsdev-midterm-nine.vercel.app/",
+    githubLink: "https://github.com/Unpayedme/APPSDEV-MIDTERM"
+  },
+  {
+    title: "CPU Scheduling",
+    desc: "A fully responsive online store featuring a seamless shopping experience. Users can browse products, manage their cart, and securely checkout, while admins have a dedicated dashboard for inventory and order management.",
+    tags: ["React", "Javascript", "Tailwind"],
+    link: "https://appsdev-midterm-nine.vercel.app/",
+    githubLink: "https://github.com/Unpayedme/APPSDEV-MIDTERM"
+  },
 ];

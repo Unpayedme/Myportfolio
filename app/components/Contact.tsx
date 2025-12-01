@@ -33,7 +33,8 @@ const Contact = () => {
             <a href="#" className="hover:text-red-500 hover:-translate-y-1 transition-all"><Linkedin size={20} /></a>
          </div>
          <div className="hidden md:flex flex-col gap-6 fixed right-10 bottom-0 z-10 after:content-[''] after:w-px after:h-24 after:bg-gray-500 after:mx-auto">
-            <a href="mailto:jv.sefuesca@gmail.com" className="hover:text-red-500 hover:-translate-y-1 transition-all vertical-writing-rl font-mono tracking-widest text-xs py-4" >
+            <a href="mailto:jv.sefuesca@gmail.com" className="hover:text-red-500 hover:-translate-y-1 transition-all vertical-writing-rl font-mono tracking-widest text-xs py-4"
+            >
               jv.sefuesca@gmail.com
             </a>
          </div>
