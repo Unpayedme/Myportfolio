@@ -59,7 +59,7 @@ export const SCHOOL_PROJECTS = [
   },
   {
     title: "CPU Scheduling",
-    desc: "A fully responsive online store featuring a seamless shopping experience. Users can browse products, manage their cart, and securely checkout, while admins have a dedicated dashboard for inventory and order management.",
+    desc: "An interactive visualization tool for Operating System scheduling algorithms. Users can input custom process data to generate real-time Gantt charts and compare the efficiency of algorithms like FCFS and Round Robin based on Turnaround and Waiting times.",
     tags: ["React", "Javascript", "Tailwind"],
     link: "https://appsdev-midterm-nine.vercel.app/",
     githubLink: "https://github.com/Unpayedme/APPSDEV-MIDTERM"
